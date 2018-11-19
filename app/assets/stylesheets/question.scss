@@ -1,0 +1,25 @@
+// Place all the styles related to the question controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+.content {
+  margin: 10px 200px;
+
+}
+
+.ask {
+  text-align: left;
+  border-left: 3px solid black;
+  padding-left: 10px;
+
+
+}
+
+.answer {
+  text-align: left;
+  border-left: 3px solid black;
+  background-color: #FFFEE0;
+  padding-left: 10px;
+
+}
+
